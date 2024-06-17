@@ -27,7 +27,7 @@
   <a href="https://in.linkedin.com/in/abdulakhad-turgunaliev">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />  
   </a>
-  <a href="https://Qoqondabitta.github.io">
+  <a href="https://github.com/Qoqondabitta">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />  
   </a>
 </div>
