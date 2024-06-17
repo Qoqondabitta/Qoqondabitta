@@ -41,11 +41,29 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,python,mysql,typescript,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,redux,react,threejs,mui,tsparticles" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,netlify" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,redux,react,threejs,mui,styledcomponents," /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,netlify,git,postman" /><br>
   </a>
 </div>
-<!---
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Qoqondabitta/Qoqondabitta/output//github-contribution-grid-snake.svg" />
+
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+  <h2 align="center>✨ Stats ✨</h2>
+
+<br/>
+    
+    <!---
 Qoqondabitta/Qoqondabitta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
