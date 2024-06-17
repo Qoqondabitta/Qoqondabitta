@@ -30,9 +30,6 @@
   <a href="https://github.com/Qoqondabitta">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  
   </a>
-  <a href="https://github.com/Qoqondabitta">
-    <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />  
-  </a>
 </div>
 
 <hr/>
@@ -44,7 +41,8 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,python,mysql,typescript,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,redux,react,github,threejs,mui,figma,netlify" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,redux,react,threejs,mui,tsparticles" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,netlify" /><br>
   </a>
 </div>
 <!---
