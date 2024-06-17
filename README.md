@@ -43,9 +43,8 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src-"https://skillicons.dev/icons?i=javascript,python,sql,html,css" /><br/>
-    <img src-"https://skillicons.dev/icons?i=react,tailwind,redux,api, github" /><br/>
-    <img />
+    <img src-"https://skillicons.dev/icons?i=javascript,python,sql,html,css" /><br>
+    <img src-"https://skillicons.dev/icons?i=react,tailwind,redux,api, github" /><br>
   </a>
 </div>
 <!---
