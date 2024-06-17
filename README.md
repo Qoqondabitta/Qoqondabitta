@@ -34,6 +34,20 @@
     <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />  
   </a>
 </div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
+
+<br/>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src-"https://skillicons.dev/icons?i=javascript,python,sql,html,css" /><br/>
+    <img src-"https://skillicons.dev/icons?i=react,tailwind,redux,api, github" /><br/>
+    <img />
+  </a>
+</div>
 <!---
 Qoqondabitta/Qoqondabitta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
