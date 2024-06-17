@@ -6,19 +6,22 @@
 </a>  
 </h1>
 
-<h3 align="center">A passionate FRONT-END DEVELOPER from UZBEKISTAN</h3>
+<h2 align="center">A passionate FRONT-END DEVELOPER from UZBEKISTAN</h2>
+  <img alt="coding" align="right" height=260 width=280 src="https://aaah0mnbncqtinas.public.blob.vercel-storage.com/lsXUltlDkU-no-background-TrmUy2ilYKFEOXWEST6G1Fy70X5H3c.png" />
 
 <br/>
-<div align="center">
+
+  <h3 align="center" width="200">
   
-  👀 I’m currently working on an **Online Store**
+  👀 I’m currently developing an **Online Store**
   
   🌱 I’m currently learning **Python, GraphQl, SQL and React Query**
   
   💞️ Ask me about **Tailwind, JavaScript, React JS or anything [here](https://github.com/Qoqondabitta/Qoqondabitta/issues)**
 
   📫 How to reach me **t.me/Hammasi_Ota_Onam_Sababli**
-</div>
+</h3>
+
 
 
 <div align="center">
@@ -32,8 +35,10 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  
   </a>
 </div>
-
-<hr/>
+<br/>
+<br/>
+<h2 align="center">Support:</h2>
+<p align="center"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/iamabdulakhad"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/iamabdulakhad" /></a><a href="https://ko-fi.com/https://buymeacoffee.com/iamabdulakhad"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://buymeacoffee.com/iamabdulakhad" /></a></p><br><br>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
 
@@ -48,15 +53,24 @@
 </div>
 
 <br/>
-<hr/>
+<br/>
 
 <h2 align="center">Connect With Me On👨‍💻</h2>
 <br/>
-<div align="center">
+<p align="center">
   <a href="https://x.com/iamabdulakhad">
-    <img src="https://skillicons.dev/icons?i=github,twitter,linkedin,gmail" /><br>
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-</div>
+  <a href="https://github.com/Qoqondabitta">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:abdulakhadturgunaliev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://in.linkedin.com/in/abdulakhad-turgunaliev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <br/>
 <hr/>
