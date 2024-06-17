@@ -63,8 +63,8 @@
 <br>
 <div align="center">
   <img  width=390 src="https://streak-stats.demolab.com/?user=Qoqondabitta&count_private=true&theme=react&border_radius=10" alt="streak status" />
-  <img width=390 src="https://github-readme-stats-Qoqondabitta.vercel.app/api?user=Qoqondabitta&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qoqondabitta&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stars" alt="top langs" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Qoqondabitta&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qoqondabitta&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=1&count_weight=1&exclude_repo=github-readme-stars" alt="top langs" />
 </div>
 
 <br/><br/>
