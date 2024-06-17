@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <a href="abdulakhadturgunaliev@gmail.com">
+  <a href="mailto:abdulakhadturgunaliev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />  
   </a>
   <a href="https://in.linkedin.com/in/abdulakhad-turgunaliev">
@@ -29,6 +29,9 @@
   </a>
   <a href="https://github.com/Qoqondabitta">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  
+  </a>
+  <a href="https://github.com/Qoqondabitta">
+    <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />  
   </a>
 </div>
 <!---
