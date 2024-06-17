@@ -19,6 +19,18 @@
 
   📫 How to reach me **t.me/Hammasi_Ota_Onam_Sababli**
 </div>
+
+<div align="center">
+  <a href="mailto:abdulakhadturgunaliev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />  
+  </a>
+  <a href="https://in.linkedin.com/in/abdulakhad-turgunaliev">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />  
+  </a>
+  <a href="https://Qoqondabitta.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />  
+  </a>
+</div>
 <!---
 Qoqondabitta/Qoqondabitta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
