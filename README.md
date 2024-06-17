@@ -20,6 +20,7 @@
   📫 How to reach me **t.me/Hammasi_Ota_Onam_Sababli**
 </div>
 
+
 <div align="center">
   <a href="mailto:abdulakhadturgunaliev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />  
@@ -40,14 +41,26 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,python,mysql,typescript,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,redux,react,threejs,mui,styledcomponents" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,python,mysql,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,redux,react,threejs,mui,styledcomponents,html,css" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,netlify,git,postman" /><br>
   </a>
 </div>
 
 <br/>
 <hr/>
+
+<h2 align="center">Connect With Me On👨‍💻</h2>
+<br/>
+<div align="center">
+  <a href="https://x.com/iamabdulakhad">
+    <img src="https://skillicons.dev/icons?i=github,twitter,linkedin,gmail" /><br>
+  </a>
+</div>
+
+<br/>
+<hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
