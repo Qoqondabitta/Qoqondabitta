@@ -12,9 +12,12 @@
 <div align="center">
   
   👀 I’m currently working on an **Online Store**
+  
   🌱 I’m currently learning **Python, GraphQl, SQL and React Query**
-- 💞️ Ask me about **Tailwind, JavaScript, React JS or anything [here](https://github.com/Qoqondabitta/Qoqondabitta/issues)**
-- 📫 How to reach me **t.me/Hammasi_Ota_Onam_Sababli**
+  
+  💞️ Ask me about **Tailwind, JavaScript, React JS or anything [here](https://github.com/Qoqondabitta/Qoqondabitta/issues)**
+
+  📫 How to reach me **t.me/Hammasi_Ota_Onam_Sababli**
 </div>
 <!---
 Qoqondabitta/Qoqondabitta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
