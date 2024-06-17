@@ -44,7 +44,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,python,mysql,typescript,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,redux,react,github,threejs,mui,ant,figma,threefiber" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,redux,react,github,threejs,mui,figma,netlify" /><br>
   </a>
 </div>
 <!---
