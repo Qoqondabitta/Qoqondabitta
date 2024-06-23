@@ -12,6 +12,8 @@
 <br/>
 
   <h3 align="center" width="200">
+
+  ✋ Hi there I am [Abdulakhad Turgunaliev](https://iamabdulakhad.netlify.app/)
   
   👀 I’m currently developing an **Online Store**
   
