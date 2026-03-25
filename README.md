@@ -2,24 +2,24 @@
 
 <h1 align="center">
 <a href="https://git.io/typing-svg" align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋!;+I'm+Abdulakhad+Turgunaliev!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Assalamu+alaikum+👋!;+I'm+Abdulakhad+Turgunaliev!;" />
 </a>  
 </h1>
 
-<h2 align="center">A passionate FRONT-END DEVELOPER from UZBEKISTAN</h2>
-  <img alt="coding" align="right" height=260 width=280 src="https://aaah0mnbncqtinas.public.blob.vercel-storage.com/lsXUltlDkU-no-background-TrmUy2ilYKFEOXWEST6G1Fy70X5H3c.png" />
+<h2 align="center">A YOUNG ENTREPRENEUR</h2>
+  <img alt="coding" align="right" height=280 width=280 src="https://pbs.twimg.com/profile_images/2033125607651872768/E8yqhpsY_400x400.jpg" />
 
 <br/>
 
   <h3 align="center" width="200">
 
-  ✋ Hi there I am [Abdulakhad Turgunaliev](https://iamabdulakhad.netlify.app/)
+  ✋ Assalamu alaikum, I am [Abdulakhad Turgunaliev](https://iamabdulakhad.netlify.app/)
   
-  👀 I’m currently developing an **Online Store**
+  👀 We offer Website and App development
   
-  🌱 I’m currently learning **Python, GraphQl, SQL and React Query**
+  🌱 We can build FULL-STACK, MERN-STACK, and any type of Website
   
-  💞️ Ask me about **Tailwind, JavaScript, React JS or anything [here](https://github.com/Qoqondabitta/Qoqondabitta/issues)**
+  💞️ Se my projects [here](https://github.com/Qoqondabitta/Qoqondabitta/issues)**
 
   📫 How to reach me **t.me/Hammasi_Ota_Onam_Sababli**
 </h3>
